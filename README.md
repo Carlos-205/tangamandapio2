@@ -8,11 +8,11 @@ Página del equipo construida en GitHub con ramas, Pull Requests y revisión de 
 
 | Integrante | Rol | Usuario de GitHub |
 |---|---|---|
-| Juan Esteban Hernández Hurtado | Líder | @USUARIO-JUAN |
-| Jaider Cristóbal Marín | Frontend | @USUARIO-JAIDER |
-| Luis Jerónimo Tapias Figero | Backend | @USUARIO-LUIS |
-| Carlos Andrés Peña Peña | Documentador | @USUARIO-CARLOS |
-| Alejandro Riaño | Tester | @USUARIO-ALEJANDRO |
+| Juan Esteban Hernández Hurtado | Líder | @juaniiodas2-hue|
+| Jaider Cristóbal Marín | Frontend | @JaiderVargas2007 |
+| Luis Jerónimo Tapias Figero | Backend | @JeronimoTF |
+| Carlos Andrés Peña Peña | Documentador | @Carlos-205 |
+| Alejandro Riaño | Tester | @Daniel-CPK |
 
 ## Ramas
 
