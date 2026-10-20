@@ -2,7 +2,7 @@
 
 Página del equipo construida en GitHub con ramas, Pull Requests y revisión de código.
 
-**Página publicada:** https://ORG.github.io/proyecto-equipo/
+**Página publicada:** 
 
 ## Integrantes y roles
 
